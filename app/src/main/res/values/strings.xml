@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment</string>
+
+    <string name="network_granted">We have network connection!</string>
+    <string name="network_not_granted">Oh no, we need network to run the app</string>
+    <string name="network_no_data">Date/Time Not Available</string>
+</resources>
